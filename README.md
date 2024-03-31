@@ -1,0 +1,2 @@
+# Comparative-Textual-Analysis-Wikipedia.com-Vs-Encyclopedia.com-
+This project provides a comprehensive comparative analysis of content quality and sentiment in by using 11 common topics from Wikipedia.com and Encyclopedia.com, by leveraging python - web scraping, text analysis, and data visualization techniques, we gain insights into how these platforms present information on those common topics.
