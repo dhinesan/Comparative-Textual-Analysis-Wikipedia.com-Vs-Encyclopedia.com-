@@ -1,0 +1,140 @@
+Earth Science: Climate Change
+Earth Science: Climate Change
+
+Introduction
+
+Climate is the average weather of a region over time. Climates are shaped by a global machinery of ocean currents, winds, forests, ice caps, mountain ranges, bacteria, planetary orbital motions, human activities, and many other factors.
+
+Scientists are sure that global climate change is happening and are almost certain that it is mostly anthropogenic (caused by humans). Since the 1990s, most scientific and public debate has turned from the question of whether climate change is real to the question of what should be done about it. However, some doubters or skeptics, including many political commentators and a relatively small number of scientists, have claimed since the 1980s that global climate is either not happening or, if it is happening, is not caused primarily by human beings. Criticism of mainstream science continues to be voiced. However, there is consensus among the great majority of scientists studying climate that present-day global climate change is real, significant, and primarily human-caused.
+
+The consensus is that Earth's climate is changing as a result of human activities that have added large quantities of certain gases to the atmosphere, especially carbon dioxide (CO 2 ) and methane (CH 4 ). The well-being or survival of hundreds of millions of people may soon be threatened by rising sea levels, disrupted food production, extreme weather, and emergent diseases; a large fraction of the world's species of animals and plants may go extinct in the next century or two as a result of climate change and other human pressures on the environment. Estimates of the money costs of climate change over the next century range in the scores of trillions of dollars.
+
+Historical Background and Scientific Foundations
+
+The idea that Earth's atmosphere might act as a one-way valve for solar energy, letting light in but not letting heat out, was first suggested in the early 1800s. In 1824, French scientist Joseph Fourier (1768–1830) described the greenhouse effect accurately, using the scientific language of his day, when he wrote that “the temperature [of Earth] can be augmented by the interposition of the atmosphere, because heat in the state of light finds less resistance in penetrating the air, than in repassing into the air when converted into non-luminous heat.”
+
+In 1895, Swedish chemist Svante Arrhenius (1859–1927) suggested that changes in atmospheric CO 2 concentrations could change Earth's climate. He estimated that doubling CO 2 would increase average global temperature by 9°F (5°C). This was not far wrong, by today's standards: In 2007, the United Nations' Intergovernmental Panel on Climate Change (IPCC) said that the result of doubling CO 2 would most likely be a 5.4°F (3°C) increase in global temperature. In 1908, Arrhenius was the first scientist to suggest the possibility of an anthropogenic greenhouse effect. Human beings, he suggested, by burning fossil fuels such as coal and so increasing the amount of CO 2 in the atmosphere, might warm Earth's climate. Unable to foretell the huge increase in fossil-fuel use that was about to occur in the twentieth century, Arrhenius suggested that a green-house effect might become noticeable in 3,000 years; in fact, it was detectable by the 1990s, less than 100 years later.
+
+2 In the 1930s, English inventor Guy Stewart Callendar (1898–1964) estimated that doubling CO 2 would cause 3.6°F (2°C) of global warming and theorized correctly that warming would be greater in the polar regions. This is being observed today: The Arctic and the circum-Antarctic region (though not central Antarctica) are warming about twice as fast as the rest of the world. Cooling in central Antarctica may be caused by increased snowfall there due to warmer temperatures over the Antarctic Ocean, or to the strengthening of the circumpolar vortex (circular wind blowing around Antarctica) due to the loss of heat-absorbing ozone over the continent. In any case, Callendar and some other researchers of that time were mistaken in their belief that anthropogenic global warming was already, in the early twentieth century, clearly detectable in the climate record.
+
+By the mid-1950s, scientific understanding of Earth's climate system was advancing rapidly and the possibility of anthropogenic climate change was widely discussed by scientists. However, nobody had yet found a way to make the precise measurements of atmospheric greenhouse gases. Such measurements would show whether humans were actually increasing the amounts of such gases in the atmosphere: perhaps, some scientists theorized, the oceans were absorbing CO 2 as fast as we were releasing it. In 1958, American scientist Charles David Keeling (1928–2005) developed sensitive new instruments to measure atmospheric CO 2 and began operating them on the summit of Mauna Loa volcano in Hawaii. After just a few years, his data showed a clear result: Although CO 2 fell each summer as green plants grew in the Northern Hemisphere (where most of the world's land is), it rose again in the autumn and winter—and it always rose farther than it fell. The result was an upward-tilted zigzag line showing a steady increase in atmospheric CO 2 . Since atmospheric CO 2 was indeed increasing, an anthropogenic greenhouse effect might be occurring.
+
+Keeling's chart of rising CO 2 , now known as the Keeling curve, has become an icon of global warming. His measurements and thousands of similar ones, including measurements of air samples trapped in ancient ice layers in Greenland and Antarctica, show beyond doubt that human activities have raised atmospheric CO2 from about 280 parts per million in 1750 to 383 parts per million as of November 2007, a 36.8% increase. (Parts per million refers to the number of molecules in a mixture; for example, 280 parts per million CO 2 means that out of every 1 million air molecules, 280 are CO 2 .) Atmospheric CO 2 continues to increase.
+
+Through the 1970s, however, even knowing about the Keeling curve, scientists were still uncertain about whether Earth was about to experience global cooling or global warming. Aerosols—small solid or liquid particles suspended in the air—tend to cool Earth while greenhouse gases tend to warm it, and both are added to the atmosphere by burning fuels. It seemed possible that the cooling effect of aerosols might be balancing the warming effect of increased CO 2 and methane (CH 4 ), the second-most-important greenhouse gas. Perhaps, scientists also speculated, the amount of energy from the sun was changing, or as-yet-unknown natural processes were changing climate. Although a few sensational articles in news magazines proclaimed that the world was on the verge of a new Ice Age, the opinion held by the great majority of scientists was that they did not yet know enough to say what was going to happen to Earth's climate in the near future.
+
+Meanwhile, the Keeling curve continued to climb. Surface temperature measurements from thousands of weather stations showed warming trends in most parts of the world, and data from hundreds of tide gauges showed that sea levels were rising. Layered cylinders of muck from ocean bottoms and of ancient snow layers from deep inside the ice caps of Greenland and Antarctica
+
+began to reveal more about paleoclimate (climate before the beginning of instrumental records), hinting that relatively small changes to radiative forcing, such as slight changes in Earth's orbit, might trigger large climate changes. The first mathematical descriptions of the climate mechanism, called climate models, were developed in the 1960s. Although crude by today's standards, they predicted several degrees of warming over the next century, now known to be a reasonably correct result. Starting in the 1970s, satellites began to monitor Earth's temperature from outer space, supplying a flood of new, independent information about climate.
+
+By the mid-1980s, the doubts of most scientists had been answered: The world was indeed warming. What was more, it would continue to warm, and human beings were the primary cause. Scientists warned that global warming would cause a host of other climate changes, many dangerous or costly, from rising seas to shifting rainfall patterns. It became increasingly clear that the question of global warming was more than a matter of abstract curiosity: All human life ultimately depends on farming, and all farming ultimately depends on climate. Also, hundreds of millions of people live within a meter or so of sea level: rising waters might force their resettlement, if that were possible.
+
+In 1985, a United Nations (UN) scientific conference in Austria agreed that significant human-caused global warming was probably about to occur. In 1987, the tenth congress of the UN's World Meteorological Organization recommended ongoing, long-term assessment of climate change by an international group of scientists. The new group, the Intergovernmental Panel on Climate Change (IPCC), was formed in 1988 and given the job of reporting on the scientific community's understanding of climate so that decision-makers could make informed decisions. The IPCC's reports, issued every two to five years, have been influential in the global discussion of climate change. In 2007 the organization shared a Nobel Peace Prize with former U.S. vice president and climate-change activist Al Gore (1948–). The first IPCC Assessment Report was issued in 1990 and the fourth in 2007. A fifth report is due around 2012.
+
+The IPCC's 1990 report advised that global warming was probably happening and might cause many problems. Mildly alarmed—there were still many doubts and uncertainties—almost all the world's nations sent representatives to a climate summit in Rio de Janeiro, Brazil, in 1992. There, a treaty addressing the problem of global climate change was negotiated. This treaty, the United Nations Framework Convention on Climate Change (UNFCCC), did not place binding obligations on any countries but did acknowledge the reality of anthropogenic global climate change. Under the UNFCCC, industrialized countries made a nonbinding commitment to reduce their greenhouse-gas emissions and to help poorer countries reduce theirs as well.
+
+Throughout the 1990s, a minority of scientists challenged the basis of global climate change theory. Some proposed that the globe was not warming significantly at all; others argued that warming might be occurring, but was due to natural processes, not anthropogenic greenhouse gases. Those doubting that Earth was warming drew attention to potential problems such as urban heat islands (see sidebar). The great majority of climate scientists believe today that the urban-heat-island objection has been answered by adjusting temperature readings downward: Even the adjusted readings show that the world is warming. Another scientific objection was the discrepancy between satellite measurements of Earth's temperature and ground-based (thermometer) measurements: The satellite data seemed to show that Earth was, if anything, cooling rather than warming. Careful re-analysis in the early 2000s showed that the satellite data had been misinterpreted: When correctly used, it also showed warming. The U.S. government announced in 2006 that the dispute had been resolved: “This significant discrepancy no longer exists because errors in the satellite and radiosonde data have
+
+been identified and corrected. New data sets have also been developed that do not show such discrepancies” (Climate Change Science Program, 2006).
+
+Modern Cultural Connections
+
+Despite the efforts of a small number of scientists and a large number of political commentators to cast doubt on the reality of human-caused nature of climate change, a scientific consensus on climate change emerged starting in the late 1980s. Computerized climate models became more complex and realistic every year, the Keeling curve continued to climb, global average temperature continued to rise, and paleoclimate studies showed that, thanks to human activity, there is now more CO 2 in the air than there had been for at least 800,000 years. Earth, climatologists confirmed, was probably warmer by the late 1990s than it had been for at least 1,100 years, maybe far longer.
+
+The countries that had signed the UNFCCC in 1992, including the world's then-largest greenhouse polluter, the United States, held regular meetings in the following years to discuss the changing science of climate change and to plan counter-action. These meetings resulted in a protocol or add-on to the UNFCCC, the Kyoto Protocol of 1997. The Kyoto Protocol was rejected by U.S. leaders and those of a few other countries—Australia did not sign the protocol until December—2007 but it was affirmed by all other signatories of the UNFCCC. Under Kyoto, industrialized countries made binding promises to reduce their own greenhouse emissions and to help developing countries do the same.
+
+IN CONTEXT: URBAN HEAT ISLANDS
+
+Urban heat islands are areas of increased warmth in and near built-up areas such as cities and suburbs. As areas become covered with buildings and pavements, natural ground surfaces such as moist soil, vegetation, and open water are replaced with stony or tarry surfaces that absorb solar energy effectively and are therefore warmer. Such surfaces also dry more quickly after precipitation, reducing evaporation, which has a cooling effect in green areas. The result is that built-up or urban areas are warmer than country or rural areas.
+
+Some skeptics of the reality of global warming have argued that the world only appears to have become warmer because too many temperature-measuring stations have been located near urban areas. As urban areas have grown over the last century, temperatures at urban or near-urban measuring stations have risen, creating an illusion of global warming. According to these critics, scientists have being measuring too many temperatures in places that have warmed for reasons that have nothing to do with global climate change.
+
+Climatologists agree, however, that temperature data must be adjusted for urban heat-island effects. Such adjustments are standard practice in climate measurement. Today, the claim that global warming is an illusion created by expanding urban heat islands has no scientific standing. The reality of global warming has been established by numerous, independent, convergent lines of evidence, including over 540 million separate readings of ground and sea surface temperature and over 30 years of satellite measurements scanning the whole surface of Earth. Global warming does not necessarily proceed smoothly: A single year, or even a run of years, may show no warming or even cooling, while the long-term trend proceeds upward.
+
+Kyoto was controversial. The United States refused to commit to the protocol because it did not require rapidly developing nations such as China to reduce their emissions. In any case, Kyoto did serve as a beginningfor international action on climate change, establishing mechanisms for carbon emissions trading and formalizing the commitment of most industrial nations to reduce their emissions. Kyoto was not meant to be the final word on climate action; signers agreed from the beginning to replace Kyoto with an updated agreement starting in 2012.
+
+In 2001 and in 2007, the IPCC released its third and fourth Assessment Reports on climate change. The 2007 report, prepared by over 2,500 scientists and economists appointed by scores of governments, declared that global warming was “unequivocal” (i.e., definite) and that there was at least a 90% probability that human beings were the main cause. It also said that climate change could be mitigated (made less severe) at fairly low cost if prompt action were taken to reduce greenhouse emissions. The report had unprecedented impact on world opinion on climate change, creating a heightened sense of urgency. After the 2007 IPCC report, voices doubting the reality of climate change were more marginalized than ever. As of early 2008, however, the United States and China, the world's largest greenhouse polluters, both still remained unfriendly to the idea of binding emissions limits, making the future of efforts to control global climate change uncertain.
+
+Despite spreading recognition of the climate-change issue, public understanding of the causes of global warming has remained low. In 1994, 57% of the public thought that it was “definitely true” or “probably true” that the greenhouse effect is caused by a hole in Earth's atmosphere; in 2000, the number was 54%, not significantly different. (Global warming is caused by greenhouse gases added to the atmosphere, not by a hole in the atmosphere.) In 2001, only 15% of U.S. citizens could correctly identify the burning of fossil fuels as the primary cause of global warming, a tie with Brazil and significantly less than in Mexico, where 26% of respondents (still a relatively small number) could answer correctly. The public is also confused about whether a scientific consensus exists on global warming: as of 2007, depending on how the question was worded, the number of Americans who think that scientists have reached agreement that human-released carbon dioxide is the major cause of global warming varied from a third to slightly over 60%.
+
+However, international polls in 2006 showed that large percentages of the populations of many countries consider global warming a serious threat. The highest percentages found were in South Korea (where 96% of those polled believed that climate change is either a “critical threat” or “important but not critical” threat), Australia (95%), and Mexico (93%). The Ukraine had the lowest level of concern, about 66%—still a solid majority. In the United States, 87% saw the threat of global warming as either critical or important.
+
+Primary Source Connection
+
+The following article was written by Peter N. Spotts, a science and technology writer for the Christian Science Monitor. Founded in 1908, the Christian Science Monitor is an international newspaper based in Boston, Massachusetts. This article predicts that, on the heels of the release of the IPCC “Climate Change 2007” report, the upcoming United Nations Climate Change Conference could result in an international agreement for restricting greenhouse-gas emissions. In fact, during the conference held December 3–14, 2007, in Bali, Indonesia, a “Bali roadmap” for a future agreement on climate change was adopted by the member nations in attendance.
+
+CLIMATE REPORT A KEY TO WORLD EMISSIONS AGREEMENT IN BALI
+
+Despite concern among scientists that politics have watered it down in distillation, the synthesis is expected to add urgency to next month's emissions meeting in Indonesia.
+
+Sometimes warnings pack more punch when they come in a concentrated form and at the right moment.
+
+That's the hope United Nations officials have expressed after the weekend release of the last of four reports this year on global warming and options for trying to bring it under control.
+
+The report reflects rising scientific confidence—and remaining uncertainties—in describing current and projected effects of global warming. That, plus the report's condensed size and terse talking points, virtually ensure it will play a key role in adding urgency to negotiations that begin on Dec. 3 in Nasu Dua, on the island of Bali in Indonesia.
+
+The aim of next month's meeting is to gain consensus on a formal framework for reaching a new emissions-reduction pact over the next two years. A new pact would pick up where the 1997 Kyoto Protocol leaves off. Currently it only requires industrial countries to reduce their greenhouse-gas emissions by an average 5.5 percent below 1990 levels between 2008 and 2012.
+
+Over the weekend, delegates from 140 nations meeting in Valencia, Spain, adopted the Intergovernmental Panel on Climate Change's (IPCC) “synthesis report.” It's a thin volume distilled from three larger tomes the UN-sponsored group of scientists, economists, and other experts released earlier this year. It draws no new conclusions. But it does insist that some effects of global warming, such as sea-level rise, are inevitable and will continue for centuries, even if all heat-trapping green-house-gas emissions stopped tomorrow. Heading off the worst of the effects means moving aggressively to curb rising greenhouse gases, mainly carbon dioxide from burning fossil fuels, the report suggests.
+
+The message “could not be simpler,” says UN Secretary-General Ban Ki Moon. “Global, sweeping, concerted action is needed now; there is no time to waste.”
+
+The synthesis report reiterates that the warming of Earth's climate is “unequivocal” and that the scientists involved express “very high confidence” that human activities have warmed the climate since 1750. It also indicates that human influence on climate has contributed to rising sea levels, shifting storm tracks, increasing temperature extremes, and raising the risk of heat waves, droughts, and heavy rains.
+
+The synthesis report uses sea levels to illustrate what many see as unavoidable long-term effects, depending on the rate of warming.
+
+Even the most aggressive scenario to curb greenhouse gas emissions—with emissions peaking by 2015 and falling to between 50 and 80 percent of 2000 levels by 2050—would still warm the planet enough to ensure that over the next millennium, global average sea level would rise by up to 4.6 feet. The least aggressive scenario, which yields the largest warming, would raise sea levels by up to 12 feet. These increases come merely from heating the oceans, which expand when warmed. The scenarios don't take into account meltwater that icecaps in Greenland or Antarctica would contribute as the global average temperatures rise.
+
+The concentration of carbon dioxide in the atmosphere needed to hold sea-level rise to a minimum “is basically where we are right now,” says Ronald Stouffer, a researcher and a member of the synthesis report's core writing team. But global average temperatures today do not yet reflect “in any way, shape, or form, the amount of carbon dioxide and other greenhouse gases in the atmosphere,” he says, because of the inertia in the climate system.
+
+Trends in carbon-dioxide emissions hint at the tough job that awaits negotiators heading for Nasu Dua, Indonesia next month. A team of government and university scientists from Australia, the US, Britain, France, and Austria reported in late October that between 2000 and 2006, carbon dioxide concentrations in the atmosphere grew at the fastest rate since monitoring began in 1959. Some two-thirds of the increase comes from industrial emissions and deforestation, the researchers note. But, they add, another 18 percent can be traced to oceans and plants, which are becoming less efficient at soaking up CO2. Computer models the IPCC uses to track Earth's natural carbon cycle have projected a slowdown in CO2 uptake by oceans and plants. According to the team, the slowdown is larger and is coming earlier than models project. CO2 concentrations are at their highest level in at least 650,000 years and likely the last 2 million years, the team noted.
+
+Criticism that the IPCC process is too political often comes from conservative groups. They argue that the worriers have hijacked the IPCC process, leading to a litany of gloomy scenarios.
+
+However, concern about politics and the IPCC process also comes from some scientists, who argue that because the IPCC operates by consensus among the political delegations who must approve the reports the scientists produce, the reports may understate the challenges humanity faces from global warming.
+
+The reports, which appear every five to six years, represent a snapshot of the science that is now about two years old, notes Dominique Bachelet, an associate professor in the biological and ecological engineering department at Oregon State University in Corvallis, Ore. “The climate is changing so fast,” and while the authors are writing and assembling the reports, “science is moving on.”
+
+The synthesis report and its progenitors serve as a highly useful baseline, she says, “but it's a conservative baseline.”
+
+Despite the challenges, the UN's Mr. Ban says he remains optimistic that countries can agree. “I'm encouraged by the level of political will. I look forward to China and the US to play a more constructive role” at Bali. “Both can lead.”
+
+Peter N. Spotts
+
+spotts, peter n. “climate report a key to world emissions agreement in bali.” christian science monitor (november 19, 2007).
+
+See Also Earth Science: Atmospheric Science.
+
+bibliography
+
+Books
+
+Weart, Spencer. The Discovery of Global Warming. Cambridge, MA: Harvard University Press, 2004.
+
+Periodicals
+
+Begley, Sharon. “Global-Warming Deniers: A Well-Funded Machine.” Newsweek (March 18, 2007).
+
+Brechin, Steven R. “Comparative Public Opinion and Knowledge on Global Climatic Change and the Kyoto Protocol: The U.S. Versus the World?” The International Journal of Sociology and Public Policy 23 (2003): 106–135.
+
+Hopking, Michael. “Climate Skeptics Switch Focus to Economics.” Nature 445 (2007): 582–583.
+
+Mahlman, J. D. “Science and Nonscience Concerning Human-Caused Climate Warming.” Annual Review of Energy and the Environment 23 (1998): 83–105.
+
+Mooney, Chris. “Blinded By Science: How ‘Balanced’ Coverage Lets the Scientific Fringe Hijack Reality.” Columbia Journalism Review (November/December 2004).
+
+Nisbet, Matthew C., and Teresa Myers. “Twenty Years of Public Opinion about Global Warming.” Public Opinion Quarterly 71 (2007): 444–470.
+
+Oreskes, Naomi. “The Scientific Consensus on Climate Change.” Science 306 (2004): 1686.
+
+Sample, Ian. “Scientists Offered Cash to Dispute Climate Study.” The Guardian [UK] (February 2, 2007).
+
+Spotts, Peter N. “Climate Report a Key to World Emissions Agreement in Bali.” Christian Science Monitor (November 19, 2007).
+
+Web Sites
+
+Chicago Council on Global Affairs and WorldPublicOpinion.org. “Poll Finds Worldwide Agreement that Climate Change Is a Threat.” March 13, 2007. http://www.worldpublicopinion.org/pipa/articles/home_page/329.php (accessed January 22, 2008).
+
+Climate Change Science Program (U.S. Government). “Temperature Trends in the Lower Atmosphere: Steps for Understanding and Reconciling Differences.” April 2006. http://www.climatescience.gov/Library/sap/sap1-1/finalreport/default.htm (accessed January 22, 2008).
+
+Larry Gilman
