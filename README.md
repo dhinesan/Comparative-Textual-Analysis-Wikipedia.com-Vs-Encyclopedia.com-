@@ -22,5 +22,6 @@ To try out the same:
   4. Extracted data file contains all the extracted text data through web-scraping
   5. Vectorized-data will have the dataframe in excel format
   6. Textual Analysis.pdf will contains the entire project report and explanation.
+  7. # Avg.Sent -> Average word count in sentences, Avg.Word -> Average word length
 
 Feel free to provide your comments and feedback about my project which will be a great motivation for me to do more projects and improvise myself.
